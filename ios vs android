@@ -1,0 +1,33 @@
+<html style="font-family:fantasy;background-color:blue">
+ <title>ОС телефонів</title>
+  <header style="font-size:10px;text-align:center;background-color:green">
+      <h1>Операціонні системи телефонів</h1>
+       <h2>сподіваюсь, у мене все получиться</h2>
+       <p><a href="https://uk.wikipedia.org/wiki/IOS">Детальніше про IoS</a></p>
+       
+       <p style="text-align:center"><img src="https://s3.eu-central-1.amazonaws.com/listmusor/production/60992/logo/big/5a291da393e26.jpg" width="100px" height="70px"></p>
+  </header>
+   <main style="background-color:red"  >
+
+         <p>
+             <table style="border:2px solid green; text-align:center">
+            <tr>
+                <td style="border:2px solid green">IoS</td>
+                <td style="border:2px solid green">Android</td>
+            </tr>
+            <tr>
+                <td style="border:2px solid green">Xiaomi, Samsung</td>
+                <td style="border:2px solid green">Iphone</td>
+            </tr>
+                
+          </table></p>
+        <p style="text-align:center"><img src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo.png" width="160px" height="100px"/> <img src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" width="160px" weight="100px"> <img src="https://itech.co.ua/wp-content/uploads/2022/03/iphone-12-v-android-2020.jpg" width="160px" height="100px"></p>  
+
+   </main>
+  <footer style="background-color:green">
+      <p style="text-align:center">Підтримати автора: 5168 7559 0424 1037</p>
+      
+  </footer>
+    
+</html>
+
